@@ -1,5 +1,5 @@
 # webtest01
-WebPageTest
+GitHubでWebPageの公開を作るテストをした。
 
 ## 【成果確認】
 [このアドレスです](https://sayo0821.github.io/webtest01/)  
