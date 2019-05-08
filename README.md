@@ -1,5 +1,6 @@
 # webtest01
-GitHubでWebPageの公開を作るテストをした。
+- GitHubでWebPageの公開テストをした。
+- httpsのアドレスで公開できるというメリットがある。
 
 ## 【成果確認】
 [このアドレスです](https://sayo0821.github.io/webtest01/)  
@@ -11,7 +12,7 @@ GitHubでWebPageの公開を作るテストをした。
 
 ## 【内容】
 - 以下の手順でGitHubでWebPage公開のテストをした。
-***
+|  |
 | :--- |
 | ![git01_c](https://user-images.githubusercontent.com/43266053/57349218-40563200-7194-11e9-8c27-3382c9078f6f.png) |
 | ![git02_c](https://user-images.githubusercontent.com/43266053/57349222-46e4a980-7194-11e9-83ad-4b33d95d18eb.png) |
@@ -19,4 +20,3 @@ GitHubでWebPageの公開を作るテストをした。
 | ![git04_c](https://user-images.githubusercontent.com/43266053/57349229-4cda8a80-7194-11e9-8c18-30a1f61d85c9.png) |
 | ![git05_c](https://user-images.githubusercontent.com/43266053/57349233-4ea44e00-7194-11e9-9ee9-7bc4bfa125bf.png) |
 | ![git06_c](https://user-images.githubusercontent.com/43266053/57349235-506e1180-7194-11e9-96e1-d82150fb0380.png) |
-***
