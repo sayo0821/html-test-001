@@ -11,7 +11,7 @@
 - [参考)「GitHubを使って3分でHPを公開する」](https://qiita.com/budougumi0617/items/221bb946d1c90d6769e9)
 
 ## 【内容】
-- 以下の手順でGitHubでWebPage公開のテストをした。
+- 以下の手順で行った。
 ***
 ![git01_c](https://user-images.githubusercontent.com/43266053/57349218-40563200-7194-11e9-8c27-3382c9078f6f.png)
 ***
