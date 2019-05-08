@@ -3,8 +3,8 @@
 - httpsのアドレスで公開できるというメリットがある。
 
 ## 【成果確認】
-[このアドレスです](https://sayo0821.github.io/webtest01/)  
-`https://sayo0821.github.io/webtest01/`
+[このアドレスです](https://sayo0821.github.io/html-test-001/)  
+`https://sayo0821.github.io/html-test-001/`
 
 ## 【参考】
 - [参考)「ブラウザ上だけでお手軽GitHub体験」](https://www.i-ryo.com/entry/2018/11/28/221938)
